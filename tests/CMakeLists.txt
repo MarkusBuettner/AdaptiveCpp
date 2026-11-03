@@ -91,6 +91,7 @@ add_executable(sycl_tests
   sycl/group_functions/group_functions_binary_reduce.cpp
   sycl/group_functions/group_functions_known_identity.cpp
   sycl/group_functions/group_functions_reduce.cpp
+  sycl/group_functions/group_functions_reduce_fp_exact.cpp
   sycl/group_functions/group_functions_scan.cpp
   sycl/half.cpp
   sycl/id_range.cpp
